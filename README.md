@@ -1,4 +1,4 @@
-**World Population Visualization Project**
+**World Population Visualization Project**:
 This project analyzes and visualizes the world population data for the year 2022 using Python.
 We create different types of graphs to explore and understand the distribution of global population.
 
@@ -16,8 +16,8 @@ Population Value
 Python
 Pandas
 Matplotlib
-**
-Graphs Generated:**
+
+**:Graphs Generated:**
 Bar Chart: Top 10 countries by population in 2022.
 Line Chart: Population growth of India from 1960 to 2022.
 Histogram: Distribution of countries based on their population size in 2022.
