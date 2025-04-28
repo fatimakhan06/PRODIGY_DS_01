@@ -7,14 +7,14 @@ Source: World Bank Population Data
 Link: https://raw.githubusercontent.com/datasets/population/master/data/population.csv
 
 **Fields Available:**
-Country Name
-Country Code
-Year
+Country Name,
+Country Code,
+Year,
 Population Value
 
 **Technologies Used:**
-Python
-Pandas
+Python,
+Pandas,
 Matplotlib
 
 **Graphs Generated:**
