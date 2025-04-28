@@ -17,7 +17,7 @@ Python
 Pandas
 Matplotlib
 
-**:Graphs Generated:**
+**Graphs Generated:**
 Bar Chart: Top 10 countries by population in 2022.
 Line Chart: Population growth of India from 1960 to 2022.
 Histogram: Distribution of countries based on their population size in 2022.
